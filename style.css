@@ -1,4 +1,29 @@
-body {
+body{
   margin: 0;
   background-color: gray;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.left{
+  display: flex;
+  flex-direction: column;
+}
+
+.modal{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 400px;
+}
+
+.right{
+  display: flex;
+  flex-direction: column;
+  padding-right: 400px;
 }
