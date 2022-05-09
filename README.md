@@ -10,7 +10,7 @@ Used HTML, CSS, and JavaScript to create a sign-up page using intermediate techn
 None so far...
 
 ## To-do
-- Add HTML text
+- ~~Add HTML text~~
 - Style CSS
 - Add JavaScript functionality
 
