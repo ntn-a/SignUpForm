@@ -16,3 +16,4 @@ None so far...
 
 ## Credits
 - The Odin Project
+- Halie West

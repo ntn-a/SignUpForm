@@ -10,6 +10,11 @@ body{
   align-items: center;
 }
 
+.background img{
+  height: auto;
+  width: 50em;
+}
+
 .left{
   display: flex;
   flex-direction: column;
